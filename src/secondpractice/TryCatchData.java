@@ -1,7 +1,5 @@
 package secondpractice;
 
-import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
-
 public class TryCatchData {
 public static void main(String[]argu){
 
