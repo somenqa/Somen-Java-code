@@ -4,24 +4,20 @@ package somenjava;
     public class TryCatch {
     public static void main(String[]argu){
 
-      int myhousenumber =803;
-      int myzipcode =205;
-      int total=myhousenumber+myzipcode;
-      String message="total is ";
+        int i=0;
+        int j=20;
+
 
         try{
-            System.out.println(total==1345634);
-            System.out.println(message+total);
+            System.out.println(i/j);
 
+        }
+        catch (Exception e){
 
-
-
-        }catch(Exception m){
-            m.printStackTrace();
-
-
+         System.out.println("Divide by Zero is not possible"+e);
         }
 
 
     }
-}
+
+    }
