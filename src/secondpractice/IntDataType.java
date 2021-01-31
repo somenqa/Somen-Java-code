@@ -2,7 +2,7 @@ package secondpractice;
 
 public class IntDataType {
 
-public static void main(String[]argu){
+public static void main(String[]args){
 
     int medicine=127;
     int lamp=155;

@@ -1,7 +1,7 @@
 package secondpractice;
 
 public class TryCatchData {
-public static void main(String[]argu){
+public static void main(String[]args){
 
     int Bread=25;
     int Milk=12;
@@ -13,11 +13,10 @@ public static void main(String[]argu){
         System.out.println(message+total);
         System.out.println(total==90);
 
-    } catch(Exception d){
+    } catch(Exception d) {
         d.printStackTrace();
 
+    }
 }
-}
-
 }
 

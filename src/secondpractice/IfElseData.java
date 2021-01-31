@@ -1,7 +1,7 @@
 package secondpractice;
 
 public class IfElseData {
-public static void main(String[]argu){
+public static void main(String[]args){
 
  int Flower = 220;
  int Coke =123;

@@ -4,8 +4,8 @@ package secondpractice;
     public static void main(String[]args){
 
         InheritanceChild1 test= new InheritanceChild1();
-        test.son1();
         test.son2();
+        test.son1();
 
     }
 }

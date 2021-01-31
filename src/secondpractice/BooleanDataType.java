@@ -1,8 +1,8 @@
-package secondpractice;
+
 
 public class BooleanDataType {
 
-public static void main(String[]argu){
+public static void main(String[]args){
 
     boolean IloveNewJersey=true;
     boolean IHateRain=false;

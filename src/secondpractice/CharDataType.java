@@ -1,12 +1,12 @@
 package secondpractice;
 
 public class CharDataType {
-public static void main(String[]argu){
+public static void main(String[]args) {
 
-    char john= 'D';
-    char angel= 'm';
-    char mike= 'k';
-    char robert= 'J';
+    char john = 'D';
+    char angel = 'M';
+    char mike = 'k';
+    char robert = 'J';
     char david = 'L';
 
     System.out.println("L");
