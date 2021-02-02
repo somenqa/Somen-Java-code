@@ -4,15 +4,13 @@ public class MethodOverriding {
 
     public static void test() {
 
-        int Apple=20;
+        int Apple = 20;
 
-        if (Apple<10){
+        if (Apple < 10) {
             System.out.println(Apple);
-        }
-        else{
+        } else {
             System.out.println("Wrong price");
 
         }
     }
 }
-
